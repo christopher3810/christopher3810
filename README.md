@@ -1,9 +1,9 @@
 ![Generic badge](https://img.shields.io/badge/-SungMin_Yang-5F00FF?style=flat&logo=Github)
 
-Hi there! :raised_hand: i wanna fullstack web developer :simple_smile:
+Hi there! :raised_hand: i wanna fullstack web developer :smile:
 
 ## 🌟 Skills and Study
-Framework & Language & Library
+:muscle: Framework & Language & Library
 
 ![Generic badge](https://img.shields.io/badge/-Angular-FF0000?style=flat&logo=Angular)
 ![Generic badge](https://img.shields.io/badge/-Typescript-0100FF?style=flat&logo=Typescript)
