@@ -4,9 +4,6 @@ Hi there! i wanna fullstack web developer
 
 ## 🌟 Skills and Study
 Framework & Language & Library
-:frowning:
-
-
 
 ![Generic badge](https://img.shields.io/badge/-Angular-FF0000?style=flat&logo=Angular)
 ![Generic badge](https://img.shields.io/badge/-Typescript-0100FF?style=flat&logo=Typescript)
