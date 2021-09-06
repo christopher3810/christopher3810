@@ -4,6 +4,7 @@ Hi there! i wanna fullstack web developer
 
 ## 🌟 Skills and Study
 Framework & Language & Library
+:frowning:
 
 
 
