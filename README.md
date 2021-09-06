@@ -26,7 +26,7 @@ Hi there! :raised_hand: i wanna fullstack web developer :smile:
 ![Generic badge](https://img.shields.io/badge/-amazon_RDS-FF5E00?style=flat&logo=AmazonDynamoDB)
 ![Generic badge](https://img.shields.io/badge/-aws_CloudFront-FF5E00?style=flat&logo=Amazon)
 
-git status 
+:bar_chart: git status 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Christopher3810&show_icons=true&count_private=true&theme=dark)
 )](https://github.com/anuraghazra/github-readme-stats)
