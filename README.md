@@ -19,7 +19,7 @@ Framework & Language & Library
 ![Generic badge](https://img.shields.io/badge/-Git-FF5E00?style=flat&logo=git&logoColor=white)
 ![Generic badge](https://img.shields.io/badge/-Gitlab-FFBB00?style=flat&logo=gitlab&logoColor=white)
 
-Cloud Service :cloud:
+:cloud: Cloud Service
 
 ![Generic badge](https://img.shields.io/badge/-aws-FF5E00?style=flat&logo=AmazonAWS)
 ![Generic badge](https://img.shields.io/badge/-amazon_S3-FF5E00?style=flat&logo=AmazonS3)
