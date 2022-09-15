@@ -14,10 +14,10 @@ Hi there! :raised_hand: i wanna fullstack web developer :smile:
 ![Generic badge](https://img.shields.io/badge/-Java-FF5E00?style=flat&logo=Java)
 ![Generic badge](https://img.shields.io/badge/-Spring-22741C?style=flat&logo=Spring)
 ![Generic badge](https://img.shields.io/badge/-SpringBoot-22741C?style=flat&logo=SpringBoot)
-![Generic badge](https://img.shields.io/badge/-Python-8C8C8C?style=flat&logo=Python)
-![Generic badge](https://img.shields.io/badge/-Selenium-47C83E?style=flat&logo=Selenium&logoColor=black)
+![Generic badge](https://img.shields.io/badge/-Jpa-22741C?style=flat&logo=Spring)
 ![Generic badge](https://img.shields.io/badge/-Git-FF5E00?style=flat&logo=git&logoColor=white)
 ![Generic badge](https://img.shields.io/badge/-Gitlab-FFBB00?style=flat&logo=gitlab&logoColor=white)
+![Generic badge](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 :cloud: Cloud Service
 
