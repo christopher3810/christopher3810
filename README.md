@@ -1,6 +1,9 @@
-![Generic badge](https://img.shields.io/badge/-SungMin_Yang-5F00FF?style=flat&logo=Github)
 
-Hi there! :raised_hand: i wanna fullstack web developer :smile:
+<p align="center">
+<a href="https://github.com/drkostas">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=22&duration=2000&pause=800&multiline=true&repeat=false&width=800&height=125&lines=Hi+I'm+Christopher;Backend+Application+Developer;I+strive+to+gift+my+future+self+with+a+continuous+study+;and+record-keeping+effort+through+utilizing+a+blog+or+Git." alt="Typing SVG" />
+</a>
+</p>
 
 ## 🌟 Skills and Study
 :muscle: Framework & Language & Library
@@ -29,7 +32,7 @@ Hi there! :raised_hand: i wanna fullstack web developer :smile:
 :bar_chart: git status 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Christopher3810&show_icons=true&count_private=true&theme=dark)
-)](https://github.com/anuraghazra/github-readme-stats)
+](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **christopher3810/christopher3810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
