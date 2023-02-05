@@ -3,7 +3,7 @@
 <a href="https://github.com/drkostas">
     <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=22&duration=2000&pause=800&multiline=true&repeat=false&width=800&height=125&lines=Hi+I'm+Christopher;Backend+Application+Developer;I+strive+to+gift+my+future+self+with+a+continuous+study+;and+record-keeping+effort+through+utilizing+a+blog+or+Git." alt="Typing SVG" />
 </a>
-</p>
+
 
 <br/>
 
@@ -27,6 +27,7 @@
 
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+</p>
 
 </br>
 
