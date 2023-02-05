@@ -5,29 +5,30 @@
 </a>
 </p>
 
-## 🌟 Skills and Study
-:muscle: Framework & Language & Library
+<br/>
 
-![Generic badge](https://img.shields.io/badge/-Angular-FF0000?style=flat&logo=Angular)
-![Generic badge](https://img.shields.io/badge/-Typescript-0100FF?style=flat&logo=Typescript)
-![Generic badge](https://img.shields.io/badge/-Javascript-FFE400?style=flat&logo=Javascript&logoColor=black)
-![Generic badge](https://img.shields.io/badge/-ReactiveX-D941C5?style=flat&logo=Reactivex)
-![Generic badge](https://img.shields.io/badge/-Bootstrap-5F00FF?style=flat&logo=bootstrap&logoColor=white)
 
-![Generic badge](https://img.shields.io/badge/-Java-FF5E00?style=flat&logo=Java)
-![Generic badge](https://img.shields.io/badge/-Spring-22741C?style=flat&logo=Spring)
-![Generic badge](https://img.shields.io/badge/-SpringBoot-22741C?style=flat&logo=SpringBoot)
-![Generic badge](https://img.shields.io/badge/-Jpa-22741C?style=flat&logo=Spring)
-![Generic badge](https://img.shields.io/badge/-Git-FF5E00?style=flat&logo=git&logoColor=white)
-![Generic badge](https://img.shields.io/badge/-Gitlab-FFBB00?style=flat&logo=gitlab&logoColor=white)
-![Generic badge](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Spring](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![Jpa](https://img.shields.io/badge/jpa-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
-:cloud: Cloud Service
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-![Generic badge](https://img.shields.io/badge/-aws-FF5E00?style=flat&logo=AmazonAWS)
-![Generic badge](https://img.shields.io/badge/-amazon_S3-FF5E00?style=flat&logo=AmazonS3)
-![Generic badge](https://img.shields.io/badge/-amazon_RDS-FF5E00?style=flat&logo=AmazonDynamoDB)
-![Generic badge](https://img.shields.io/badge/-aws_CloudFront-FF5E00?style=flat&logo=Amazon)
+<br/>
+
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+</br>
 
 :bar_chart: git status 
 
