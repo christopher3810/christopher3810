@@ -11,6 +11,12 @@
 </div>
 <br/>
 
+### 👨🏻‍💻 Blog 
+***
+[My Blog Link](https://colevelup.tistory.com/)
+
+<br/>
+
 ### 💼 Technical skills
 ***
 
@@ -32,13 +38,6 @@
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-
-<br/>
-<br/>
-
-### 👨🏻‍💻 Blog 
-***
-[My Blog Link](https://colevelup.tistory.com/)
 
 <br>
 <br>
