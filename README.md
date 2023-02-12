@@ -7,7 +7,7 @@
 
 <br/>
 
-skills
+<span style="color:#00FFCC;">skills</span>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
@@ -30,6 +30,19 @@ skills
 </div>
 
 </br>
+
+
+
+ <!-- retro visitor counter -->
+ <p align="center" >Visitor count</p>
+ <p align="center"> 
+  <img src="https://profile-counter.glitch.me/christopher3810/count.svg" />
+ </p>
+
+
+
+<br>
+<br>
 
 :bar_chart: git status 
 
