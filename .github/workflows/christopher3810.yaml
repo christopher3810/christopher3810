@@ -16,4 +16,4 @@ jobs:
           comment_tag_name: "christopher3810"
           feed_list: "https://colevelup.tistory.com/rss"
           commit_message: "Update smy blog posts"
-          gh_token: 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
+          gh_token: ${{ secrets.GITHUB_TOKEN }}
