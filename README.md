@@ -8,7 +8,7 @@
   </div>
   <div style="flex: 1;">
     <p align="left">
-      <img src="https://user-images.githubusercontent.com/61622657/222029933-d6d11b80-862b-499e-bbfb-d305cd0c5079.gif" width="300" height="300">
+      <img src="https://user-images.githubusercontent.com/61622657/222030844-7839aebc-1326-435e-9150-22538e3af32a.gif" width="300" height="300">
     </p>
   </div>
 </div>
