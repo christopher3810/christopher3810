@@ -13,7 +13,6 @@
   </div>
 </div>
 
-
 <br/>
 
 ### 👨🏻‍💻 Latest Blog posts
