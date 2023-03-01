@@ -1,11 +1,7 @@
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
-    <p style="text-align: left;">Hi I'm Christopher<br>Backend Application Developer<br>I strive to gift my future self with a continuous study<br>and record-keeping effort through utilizing a blog or Git</p>
-  </div>
-  <div style="flex: 1;">
-    <img src="https://user-images.githubusercontent.com/61622657/222030844-7839aebc-1326-435e-9150-22538e3af32a.gif" style="width: 90%;">
-  </div>
-</div>
+
+👋            | me
+:-------------------------:|:-------------------------:
+Hi I'm Christopher<br>Backend Application Developer<br>I strive to gift my future self with a continuous study<br>and record-keeping effort through utilizing a blog or Git |  ![](https://user-images.githubusercontent.com/61622657/222030844-7839aebc-1326-435e-9150-22538e3af32a.gif)
 
 <br/>
 
