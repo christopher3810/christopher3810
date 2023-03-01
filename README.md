@@ -1,13 +1,16 @@
-
 <div style="display: flex; align-items: center;">
-  <p align="left" style="flex: 1;">
-    <img src="https://user-images.githubusercontent.com/61622657/222029933-d6d11b80-862b-499e-bbfb-d305cd0c5079.gif" width="300" height="300">
-  </p>
-  <p align="right" style="flex: 1;">
-    <a href="https://github.com/drkostas">
+  <div style="flex: 1;">
+    <p align="right">
+      <a href="https://github.com/drkostas">
         <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=22&duration=2000&pause=800&multiline=true&repeat=false&width=800&height=125&lines=Hi+I'm+Christopher;Backend+Application+Developer;I+strive+to+gift+my+future+self+with+a+continuous+study+;and+record-keeping+effort+through+utilizing+a+blog+or+Git." alt="Typing SVG" />
-    </a>
-  </p>
+      </a>
+    </p>
+  </div>
+  <div style="flex: 1;">
+    <p align="left">
+      <img src="https://user-images.githubusercontent.com/61622657/222029933-d6d11b80-862b-499e-bbfb-d305cd0c5079.gif" width="300" height="300">
+    </p>
+  </div>
 </div>
 
 
