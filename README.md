@@ -1,7 +1,11 @@
-<p float="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=22&duration=2000&pause=800&multiline=true&repeat=false&width=800&height=125&lines=Hi+I'm+Christopher;Backend+Application+Developer;I+strive+to+gift+my+future+self+with+a+continuous+study+;and+record-keeping+effort+through+utilizing+a+blog+or+Git." width="425" height="300" alt="Typing SVG" />
-  <img src="https://user-images.githubusercontent.com/61622657/222030844-7839aebc-1326-435e-9150-22538e3af32a.gif" />
-</p>
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    <p style="text-align: left;">Hi I'm Christopher<br>Backend Application Developer<br>I strive to gift my future self with a continuous study<br>and record-keeping effort through utilizing a blog or Git</p>
+  </div>
+  <div style="flex: 1;">
+    <img src="https://user-images.githubusercontent.com/61622657/222030844-7839aebc-1326-435e-9150-22538e3af32a.gif" style="width: 90%;">
+  </div>
+</div>
 
 <br/>
 
