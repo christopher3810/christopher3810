@@ -8,11 +8,11 @@ Hi I'm Christopher<br>Backend Application Developer<br>I strive to gift my futur
 ### 👨🏻‍💻 Latest Blog posts
 ***
 <!-- christopher3810:START -->
+- [[회고] 한 달간의 TIL&lpar;Today I Learnd&rpar; 회고](https://colevelup.tistory.com/32)
 - [[Java] Thread 라이프 사이클과 스레드 우선순위로 보는 데몬스레드와 비데몬 스레드](https://colevelup.tistory.com/31)
 - [[Docker] 그래서 도커&lpar;Docker&rpar;랑 컨테이너&lpar;Container&rpar;가 뭐냐구요](https://colevelup.tistory.com/30)
 - [[Git]Merge vs Rebase Rebase를 중점으로 봐보자](https://colevelup.tistory.com/29)
 - [[Java] Java14 레코드&lpar;Record&rpar;를 알아보자](https://colevelup.tistory.com/28)
-- [[Elastic Search] 엘라스틱 서치&lpar;Elastic Search&rpar;와 Node 종류, Replica, Segment](https://colevelup.tistory.com/27)
 <!-- christopher3810:END -->
 
 
