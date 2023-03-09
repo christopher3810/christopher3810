@@ -15,7 +15,6 @@ Hi I'm Christopher<br>Backend Application Developer<br>I strive to gift my futur
 - [[Git]Merge vs Rebase Rebase를 중점으로 봐보자](https://colevelup.tistory.com/29)
 <!-- christopher3810:END -->
 
-
 <br/>
 
 ### 💼 Technical skills
@@ -38,7 +37,6 @@ Hi I'm Christopher<br>Backend Application Developer<br>I strive to gift my futur
 
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
 
 <br>
 <br>
@@ -67,6 +65,8 @@ Hi I'm Christopher<br>Backend Application Developer<br>I strive to gift my futur
   <img src="https://profile-counter.glitch.me/christopher3810/count.svg" />
  </p>
 
+<br>
+<br>
 
 
 
