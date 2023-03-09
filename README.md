@@ -1,5 +1,5 @@
 
-👋            | me
+🙋‍♂️     | me
 :-------------------------:|:-------------------------:
 Hi I'm Christopher<br>Backend Application Developer<br>I strive to gift my future self with a continuous study<br>and record-keeping effort through utilizing a blog or Git |  ![](https://user-images.githubusercontent.com/61622657/222030844-7839aebc-1326-435e-9150-22538e3af32a.gif)
 
@@ -52,12 +52,20 @@ Hi I'm Christopher<br>Backend Application Developer<br>I strive to gift my futur
 
 
 <br>
+
+
+
 <br>
 
-:bar_chart: git status 
+### 🏆  My Git Status
+***
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Christopher3810&show_icons=true&count_private=true&theme=dark)
-](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Christopher3810&show_icons=true&count_private=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Christopher3810&theme=tokyonight)
+
+
+
 <!--
 **christopher3810/christopher3810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
