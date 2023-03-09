@@ -60,9 +60,12 @@ Hi I'm Christopher<br>Backend Application Developer<br>I strive to gift my futur
 ### 🏆  My Git Status
 ***
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Christopher3810&show_icons=true&count_private=true&theme=dark)
+<div style="display:flex;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Christopher3810&show_icons=true&count_private=true&theme=dark" alt="GitHub stats" />
+  &nbsp 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christopher3810&langs_count=10&layout=compact&theme=dark" alt="Top Languages" />
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Christopher3810&theme=tokyonight)
 
 
 
