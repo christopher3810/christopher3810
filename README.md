@@ -43,20 +43,6 @@ Hi I'm Christopher<br>Backend Application Developer<br>I strive to gift my futur
 <br>
 <br>
 
- <!-- retro visitor counter -->
- <p align="center" >Visitor count</p>
- <p align="center"> 
-  <img src="https://profile-counter.glitch.me/christopher3810/count.svg" />
- </p>
-
-
-
-<br>
-
-
-
-<br>
-
 ### 🏆  My Git Status
 ***
 
@@ -65,6 +51,21 @@ Hi I'm Christopher<br>Backend Application Developer<br>I strive to gift my futur
   &nbsp 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christopher3810&langs_count=10&layout=compact&theme=dark" alt="Top Languages" />
 </div>
+
+
+
+<br>
+<br>
+
+***
+
+<br>
+
+ <!-- retro visitor counter -->
+ <p align="center" >Visitor count</p>
+ <p align="center"> 
+  <img src="https://profile-counter.glitch.me/christopher3810/count.svg" />
+ </p>
 
 
 
