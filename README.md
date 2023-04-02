@@ -8,11 +8,11 @@ Hi I'm Christopher<br>Backend Application Developer<br>I strive to gift my futur
 ### 👨🏻‍💻 Latest Blog posts
 ***
 <!-- christopher3810:START -->
+- [[Spring] SpringWebFlux에서의 효과적 Error처리와 백프레셔&lpar;BackPressure&rpar;](https://colevelup.tistory.com/40)
 - [[Spring] Tomcat VS Netty Connector - NIO&lpar;non-blocking I/O&rpar; or BIO&lpar;Blocking I/O&rpar;](https://colevelup.tistory.com/39)
 - [[Spring] Project Reactor EventLoop와 Flux와 Mono.](https://colevelup.tistory.com/38)
 - [[Spring] Reactive Programming 개요](https://colevelup.tistory.com/37)
 - [GPT-4 의 등장](https://colevelup.tistory.com/36)
-- [[Spring] @Transactional 어노테이션 이해하기&lpar;2&rpar; 롤백&lpar;rollback&rpar; 규칙, 시간 제한&lpar;Timeout&rpar;, readOnly Flag](https://colevelup.tistory.com/35)
 <!-- christopher3810:END -->
 
 <br/>
