@@ -8,11 +8,11 @@ Hi I'm Christopher<br>Backend Application Developer<br>I strive to gift my futur
 ### 👨🏻‍💻 Latest Blog posts
 ***
 <!-- christopher3810:START -->
+- [[Cipher] AES&lpar;Advanced Encryption Standard&rpar;, Block Cipher Mode](https://colevelup.tistory.com/51)
 - [[리뷰] 육각형 개발자 리뷰](https://colevelup.tistory.com/50)
 - [[Minikube] Minikube Stop And Start 시 helm 배포 Pod 유지 않되는 현상](https://colevelup.tistory.com/49)
 - [[Java] Jstack 을 활용한 스레드&lpar;Thread&rpar; 덤프, 리소스 모니터링](https://colevelup.tistory.com/48)
 - [[Java] ImmutableList vs Collections.unmodifiableList 무엇이 다를까?](https://colevelup.tistory.com/47)
-- [[PostgreSQL] PostgreSQL 데이터 추출 - CSV, JSON 및 스키마 덤프 뜨는법.](https://colevelup.tistory.com/46)
 <!-- christopher3810:END -->
 
 <br/>
