@@ -1,7 +1,7 @@
 
 🙋‍♂️     | me
 :-------------------------:|:-------------------------:
-Hi I'm Christopher<br>Backend Application Developer<br>I strive to gift my future self with a continuous study<br>and record-keeping effort through utilizing a blog or Git |  ![](https://user-images.githubusercontent.com/61622657/222030844-7839aebc-1326-435e-9150-22538e3af32a.gif)
+Hi <br>Backend Application Developer<br>I strive to gift my future self with a continuous study<br>and record-keeping effort through utilizing a blog or Git |  ![](https://user-images.githubusercontent.com/61622657/222030844-7839aebc-1326-435e-9150-22538e3af32a.gif)
 
 <br/>
 
