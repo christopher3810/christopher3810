@@ -51,6 +51,12 @@ Backend Server Developer<br>I strive to gift my future self with a continuous st
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
+🔍 Monitoring
+
+![GRAFANA](https://img.shields.io/badge/grafana_loki-F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![OPENSEARCH](https://img.shields.io/badge/opensearch-005EB8.svg?style=for-the-badge&logo=opensearch&logoColor=white)
+![Spring](https://img.shields.io/badge/spring_boot_admin-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+
 <br>
 <br>
 
