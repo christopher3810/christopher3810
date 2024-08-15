@@ -8,11 +8,11 @@ Backend Server Developer<br>I strive to gift my future self with a continuous st
 ### 👨🏻‍💻 Latest Blog posts
 ***
 <!-- christopher3810:START -->
+- [[Book] 대화란 무엇인가&lpar;On Dialogue&rpar; - 대화에 참여하는 개인으로서 필요한 전제](https://colevelup.tistory.com/55)
+- [[Book] 켄트 벡&lpar;kent beck&rpar;의 tidy first?](https://colevelup.tistory.com/54)
 - [[Gradle] Jib Build 에 대해서 알아보자](https://colevelup.tistory.com/53)
 - [[회고] 늦었어도 돌아보자! 2023 회고](https://colevelup.tistory.com/52)
 - [[Cipher] AES&lpar;Advanced Encryption Standard&rpar;, Block Cipher Mode](https://colevelup.tistory.com/51)
-- [[리뷰] 육각형 개발자 리뷰](https://colevelup.tistory.com/50)
-- [[Minikube] Minikube Stop And Start 시 helm 배포 Pod 유지 않되는 현상](https://colevelup.tistory.com/49)
 <!-- christopher3810:END -->
 
 <br/>
