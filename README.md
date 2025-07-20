@@ -8,11 +8,11 @@ Backend Server Developer<br>I strive to gift my future self with a continuous st
 ### 👨🏻‍💻 Latest Blog posts
 ***
 <!-- christopher3810:START -->
+- [MCP &lpar;Model Context Protocol&rpar; 공동 창작자로부터 들어보는 구조, 철학](https://colevelup.tistory.com/58)
 - [[SLASH24] 토스 컨퍼런스 SLASH24 후기](https://colevelup.tistory.com/57)
 - [[Design Pattern] Flyweight Pattern - 플라이웨이트 패턴 그리고 Domain Model](https://colevelup.tistory.com/56)
 - [[Book] 대화란 무엇인가&lpar;On Dialogue&rpar; - 대화에 참여하는 개인으로서 필요한 전제](https://colevelup.tistory.com/55)
 - [[Book] 켄트 벡&lpar;kent beck&rpar;의 tidy first?](https://colevelup.tistory.com/54)
-- [[Gradle] Jib Build 에 대해서 알아보자](https://colevelup.tistory.com/53)
 <!-- christopher3810:END -->
 
 <br/>
